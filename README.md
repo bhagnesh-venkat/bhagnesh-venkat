@@ -1,4 +1,4 @@
-<img  height="180" width="1200" alt="" src="https://github.com/KONA-VENKATA-SAI-LAKSHMI/KONA-VENKATA-SAI-LAKSHMI/blob/main/Automating.gif">
+<img  height="180" width="1200" alt="" src="https://github.com/bhagnesh-venkat/bhagnesh-venkat/blob/main/Captain-America.gif">
 
 ## Hyy!! Avengers 👋, I'm [KONA VENKATA BHAGNESH!](https://github.com/bhagnesh-venkat)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kona-venkata-bhagnesh-592253172/)
@@ -8,7 +8,7 @@
 ### Are you Competitive Programmer? Cool! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=bhagnesh-venkat.bhagnesh-venkat&style=flat-square&color=0088cc)
 
 I Love to Depict Problems! Graduate🎓 from ANITS 🏛. I'm  passionate about building Web Pages from Cutting Edge Technologies💡. Activity( Explore, Depict, Code )✨.
-<img align="right" height="250" width="375" alt="" src="https://github.com/KONA-VENKATA-SAI-LAKSHMI/KONA-VENKATA-SAI-LAKSHMI/blob/main/Say%20Hi!.png" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/bhagnesh-venkat/bhagnesh-venkat/blob/main/programming.gif" />
 
 ### Personal Info:
 
