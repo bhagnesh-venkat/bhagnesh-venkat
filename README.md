@@ -7,8 +7,8 @@
 
 ### Are you Competitive Programmer? Cool! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=bhagnesh-venkat.bhagnesh-venkat&style=flat-square&color=0088cc)
 
-I Love to Depict Problems! Graduate🎓 from ANITS 🏛. I'm  passionate about building Web Pages from Cutting Edge Technologies💡. Activity( Explore, Depict, Code )✨.
-<img align="right" height="250" width="375" alt="" src="https://github.com/bhagnesh-venkat/bhagnesh-venkat/blob/main/programming.gif" />
+I Love to Depict Problems! Under Graduate🎓 from ANITS 🏛. I'm  passionate about building Web Pages from Cutting Edge Technologies💡. Activity( Explore, Depict, Code )✨.
+<img align="right" height="250" width="375" alt="" src="https://github.com/bhagnesh-venkat/bhagnesh-venkat/blob/main/Trans.gif" />
 
 ### Personal Info:
 
